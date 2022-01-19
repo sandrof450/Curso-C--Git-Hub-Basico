@@ -9,6 +9,7 @@ namespace Projeto1
         {
 
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Boa madrugada!");
 
         }
     }
